@@ -1,0 +1,5 @@
+zemberek\examples\morphology\DisambiguateSentences.class
+zemberek\examples\core\HistogramExample.class
+zemberek\examples\tokenization\TurkishTokenizationExample.class
+zemberek\examples\normalization\SpellingExamples.class
+zemberek\examples\tokenization\SentenceBoundaryDetection.class
